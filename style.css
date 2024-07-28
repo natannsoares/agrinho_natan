@@ -36,3 +36,11 @@ p {
 .imagem {
     max-width: 300px;
 }
+
+/* Estilização para o rodapé (footer) */
+.rodape {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
