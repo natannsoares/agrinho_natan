@@ -48,4 +48,8 @@ p {
     color: #fff;
     text-align: center;
     padding: 10px;
+    position: fixed; /* ou position: absolute; */
+    bottom: 0; /* ou outra posição desejada */
+    left: 0;
+    right: 0;
 }
