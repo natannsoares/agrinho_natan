@@ -35,6 +35,9 @@ main {
 p {
     line-height: 1.6;
     flex: 1;
+    font-size: 20px;
+    color: #fff;
+    padding-right: 10px;
 }
 
 /* Estilização para a imagem (img) alinhada à esquerda */
