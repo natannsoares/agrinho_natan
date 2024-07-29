@@ -39,8 +39,7 @@ p {
 
 /* Estilização para a imagem (img) alinhada à esquerda */
 .imagem {
-    align-items: right;
-    width: 40%;
+    width: 400px;
 }
 
 /* Estilização para o rodapé (footer) */
