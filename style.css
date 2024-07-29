@@ -39,7 +39,8 @@ p {
 
 /* Estilização para a imagem (img) alinhada à esquerda */
 .imagem {
-    max-width: 450x;
+    width: 350px;
+    height: 350px;
 }
 
 /* Estilização para o rodapé (footer) */
