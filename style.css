@@ -28,7 +28,7 @@ main {
     margin: 0 auto;
     padding: 20px;
     display: flex;
-    text-align: left;
+    align-items: center;
 }
 
 /* Estilização para o parágrafo (p) dentro do corpo */
@@ -40,6 +40,7 @@ p {
 /* Estilização para a imagem (img) alinhada à esquerda */
 .imagem {
     width: 400px;
+    height: auto;
 }
 
 /* Estilização para o rodapé (footer) */
