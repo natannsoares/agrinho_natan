@@ -1,7 +1,9 @@
 /* Estilização para o cabeçalho (header) */
 header {
     background-color: #f0f0f0;
+    padding: 10px;
     text-align: center;
+    margin: 0%;
 }
 
 /* Estilização para a navegação (nav) dentro do cabeçalho */
@@ -34,7 +36,7 @@ main {
 p {
     line-height: 1.6;
     flex: 1;
-    font-size: 16px;
+    font-size: 18px;
     color: #fff;
     padding-right: 10px;
 }
